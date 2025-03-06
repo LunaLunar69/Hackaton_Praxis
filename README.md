@@ -1,5 +1,8 @@
 # Hackaton_Praxis
 repositorio para proyecto de hackaton praxis 2025
+
+enlace de la demostracion de la plataforma: https://hackademy-two.vercel.app/
+
 # Implementación de la Plataforma de Ciberseguridad con Design Thinking 
 
  
