@@ -56,8 +56,6 @@ if archivos:
         docs = vstore.similarity_search(user_question, 5)
         llm = ChatOpenAI(model_name='gpt-3.5-turbo')
         
-        # Definir un prompt personalizado que indique que se debe usar
-        # únicamente la información de los documentos recuperados.
         template = """Usa únicamente la información contenida en los documentos para responder la pregunta. No agregues conocimientos externos.
 
 Contexto:
